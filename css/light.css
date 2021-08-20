@@ -1,0 +1,45 @@
+
+main{
+    background-color: hsl(0, 0%, 90%);
+}
+
+.title{
+    color:hsl(60, 10%, 19%);
+}
+
+.toggle{
+    background-color: hsl(0, 5%, 81%);
+}
+
+.circle-toggle{
+    background-color: hsl(25, 98%, 40%);
+}
+
+input{
+    background-color: hsl(0, 0%, 93%);
+    color:hsl(60, 10%, 19%);
+}
+
+.main-box{
+    background-color:hsl(0, 5%, 81%);
+}
+
+.grid-item {
+    background-color: hsl(45, 7%, 89%);
+    -webkit-box-shadow: 0px 3px hsl(35, 11%, 61%);
+            box-shadow: 0px 3px hsl(35, 11%, 61%);
+    color:hsl(60, 10%, 19%);
+}
+
+.del-btn, .reset-btn{
+    background-color: hsl(185, 42%, 37%);
+    -webkit-box-shadow: 0px 3px hsl(185, 58%, 25%);
+            box-shadow: 0px 3px hsl(185, 58%, 25%);
+    color:#fff;
+}
+.equal-btn{
+    background-color: hsl(25, 98%, 40%);
+    -webkit-box-shadow: 0 3px hsl(25, 99%, 27%);
+            box-shadow: 0 3px hsl(25, 99%, 27%);
+    color:#fff;
+}
